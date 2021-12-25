@@ -32,7 +32,7 @@
             <table class="table">
                 <thead>
                     <tr>
-                        <th>Date Made</th>
+                        <th>Date</th>
                         <th>Task</th>
                         <th>Actions</th>
                     </tr>
